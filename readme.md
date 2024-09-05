@@ -1,6 +1,6 @@
 # Input File Format
 
-The model requires a CSV file named abucin_classify.csv with the following columns:
+The model requires a CSV file with the following columns:
 
 * SMILES: String representation of the chemical structure in SMILES format.
 * Activity: Binary label indicating the activity of the compound (1 for active, 0 for inactive).
